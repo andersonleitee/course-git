@@ -1,3 +1,3 @@
-#Github
+#Git course
 
-arquivo da aula de git
+Arquivo para mostrar como o git funciona!
